@@ -1,0 +1,2 @@
+pylogix==1.0.5
+pytango==9.3.6
